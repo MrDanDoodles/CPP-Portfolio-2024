@@ -1,9 +1,3 @@
-/*
-	Rock Paper Scissors Game
-	Danielle Rodriguez
-	Purpose is to play a game of RPS against a computer
-	11/10/2024
-*/
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
